@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
 
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+## &nbsp; &nbsp;<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fprogramer-freelancer-worker-man-character-work-home-computer-laptop-pc-freelance-job_10974499.htm&psig=AOvVaw3CQGuOaRyHZZcoozf6cAyx&ust=1620766000202000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCQ2IH-v_ACFQAAAAAdAAAAABAa" width="30"> **About Me**
 
 - I'm a computer science student currently in my third year
 - I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
