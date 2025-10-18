@@ -13,8 +13,7 @@
 
 ## &nbsp; &nbsp;<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fprogramer-freelancer-worker-man-character-work-home-computer-laptop-pc-freelance-job_10974499.htm&psig=AOvVaw3CQGuOaRyHZZcoozf6cAyx&ust=1620766000202000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCQ2IH-v_ACFQAAAAAdAAAAABAa" width="30"> **About Me**
 
-- I'm a computer science student currently in my third year
-- I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
+- I'm a backend developer
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
