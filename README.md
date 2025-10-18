@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
 
-**About Me**
+&nbsp;**About Me**
 
 - I'm a backend developer
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
