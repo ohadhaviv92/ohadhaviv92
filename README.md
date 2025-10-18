@@ -16,8 +16,6 @@
 - I'm a backend developer
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
-### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
-
 ---
 
 
